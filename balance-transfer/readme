@@ -1,0 +1,5 @@
+运行generateArtifacts脚本。
+重启计算机
+运行runAPP
+运行testAPIS
+（重启服务时需要手动删除ca证书目录的db）
